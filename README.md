@@ -1,2 +1,3 @@
-# oxyblock-core-components
-Modern CSS Framework based on Oxyblock UI
+# Oxyblock Core Components
+
+Oxyblock Core is a modern CSS Framework based on Oxyblock UI.
