@@ -1,6 +1,6 @@
 /**
  * Oxyblock Core - Modern CSS Framework based on Oxyblock UI
- * Version: v0.2.1
+ * Version: v0.2.2
  * Website: https://core.oxyblock.xyz
  * License: MIT
  */
@@ -456,7 +456,6 @@
   text-decoration: none
 }
 .ob-menu-bar-link:hover {
-  font-weight: 700;
   color: var(--hover-link)
 }
 [data-theme=dark] .ob-menu-bar {
